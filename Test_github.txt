@@ -6,3 +6,9 @@ New file for the new repo.....github....1st commit
 4 line
 5 line
 -------------------------------1st commit-----------
+6th line
+7 line
+8 line
+9 line
+10 line
+---------------------------2nd commit--------------
